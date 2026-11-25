@@ -1,0 +1,29 @@
+# Katalogi wynikowe kompilacji i debugowania
+
+Debug/
+
+Release/
+
+build/
+
+out/
+
+
+# Tymczasowe pliki i kopie zapasowe CubeMX / CubeIDE
+
+*.bak
+
+*.mxproject
+
+.settings/
+
+
+# Pliki tymczasowe systemowe i edytorów
+
+*.tmp
+
+*.log
+
+.DS_Store
+
+Thumbs.db
